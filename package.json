@@ -50,5 +50,17 @@
     "eslint-plugin-react": "^7.24.0",
     "eslint-plugin-react-hooks": "^4.2.0",
     "prettier": "^2.3.2"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "prettier.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisRuiz54/hackzone-social-network-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisRuiz54/hackzone-social-network-3/issues"
+  },
+  "homepage": "https://github.com/LuisRuiz54/hackzone-social-network-3#readme"
 }
